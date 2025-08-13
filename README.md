@@ -7,7 +7,3 @@
 - 로그인/로그아웃 만들기
 >>>>>>> feature/navigation
 
-=======
-## 장바구니 추가
-- cart.md 파일 추가
->>>>>>> origin/feature/cart
