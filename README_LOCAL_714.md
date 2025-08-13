@@ -3,7 +3,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 ## 내비게이션
 - navigation.md 추가
 - 로그인/로그아웃 만들기
@@ -13,10 +12,4 @@
 =======
 ## 안녕 반가워❤️
 >>>>>>> df3716c716cd19483818b5b481980a6926f2e2ad
-=======
-## 내비게이션
-- navigation.md 추가
-- 로그인/로그아웃 만들기
->>>>>>> feature/navigation
->>>>>>> feature/about
 
